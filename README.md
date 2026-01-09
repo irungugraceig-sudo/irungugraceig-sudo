@@ -8,7 +8,7 @@
 
 ---
 
-##From Kenya to Boston: The Journey
+## From Kenya to Boston: The Journey
 
 I spent seven years laying fiber optic cables across Africa's lakes and oceans. I secured **$102M** to connect countries. I dove 1,400 meters below Lake Tanganyika where no one had surveyed before. I led teams across 10+ countries, turning impossible infrastructure projects into reality.
 
@@ -20,7 +20,7 @@ So I came to Northeastern University. MS in Telecommunication Networks.Not to ab
 
 ---
 
-##What I'm Building Now
+## What I'm Building Now
 
 ### [GlitchWitch](https://github.com/irungugraceig-sudo/Glitchwitch) - My Answer to That Question
 
