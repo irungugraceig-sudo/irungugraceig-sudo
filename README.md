@@ -8,7 +8,7 @@
 
 ---
 
-## 🌍 From Kenya to Boston: The Journey
+##From Kenya to Boston: The Journey
 
 I spent seven years laying fiber optic cables across Africa's lakes and oceans. I secured **$102M** to connect countries. I dove 1,400 meters below Lake Tanganyika where no one had surveyed before. I led teams across 10+ countries, turning impossible infrastructure projects into reality.
 
@@ -20,7 +20,7 @@ So I came to Northeastern University. MS in Telecommunication Networks.Not to ab
 
 ---
 
-## 🔮 What I'm Building Now
+##What I'm Building Now
 
 ### [GlitchWitch](https://github.com/irungugraceig-sudo/Glitchwitch) - My Answer to That Question
 
@@ -36,7 +36,7 @@ Because I learned something laying cables: **infrastructure isn't about bandwidt
 
 ---
 
-## 🚀 What Else I've Built
+## What Else I've Built
 
 **Academic Projects** (because you have to prove you can do the fundamentals):
 - Multi-area OSPF connecting 5 global offices
@@ -53,7 +53,7 @@ Because I learned something laying cables: **infrastructure isn't about bandwidt
 
 ---
 
-## 💡 What I Believe
+## What I Believe
 
 **Networks aren't cables and routers.** They're invisible highways carrying human connection.
 
@@ -63,7 +63,7 @@ Now I'm researching XR networks with the same mindset: **How do we build infrast
 
 ---
 
-## 🎯 What I'm Looking For
+## What I'm Looking For
 
 Summer 2026 internships where I can:
 - Research emerging communication technologies
@@ -75,7 +75,7 @@ Summer 2026 internships where I can:
 
 ---
 
-## 🛠️ Tech I Work With
+## Tech I Work With
 
 **Languages:** Python (pandas, matplotlib) | Bash/PowerShell  
 **Networking:** OSPF, VLANs, ACLs, DHCP/DNS, Spanning Tree  
@@ -86,13 +86,13 @@ Summer 2026 internships where I can:
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 ![Grace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=irungugraceig-sudo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
 ---
 
-## 📬 Let's Talk
+## Let's Talk
 
 Got a network that needs understanding? Building something in XR? Researching the future of communication?
 
