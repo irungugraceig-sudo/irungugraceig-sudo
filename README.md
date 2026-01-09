@@ -12,11 +12,11 @@
 
 I spent seven years laying fiber optic cables across Africa's lakes and oceans. I secured **$102M** to connect countries. I dove 1,400 meters below Lake Tanganyika where no one had surveyed before. I led teams across 10+ countries, turning impossible infrastructure projects into reality.
 
-But here's the thing—I didn't just want to build the pipes. **I wanted to understand what flows through them.**
+But here's the thing, I didn't just want to build the pipes. **I wanted to understand what flows through them.**
 
-So I came to Northeastern University. MS in Telecommunication Networks. XR Immersive Media Lab. Not to abandon infrastructure, but to answer a question that kept me up at night:
+So I came to Northeastern University. MS in Telecommunication Networks.Not to abandon infrastructure, but to answer a question that kept me up at night:
 
-**What happens when communication moves from screens to immersive spaces?**
+**What happens when communication evolves from into immersive spaces?**
 
 ---
 
